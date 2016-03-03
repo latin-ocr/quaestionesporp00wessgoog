@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./quaestionesporp00wessgoog_0003.png"; bbox 0 0 935 1429; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 327 455 564 694">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 327 455 564 694">
+     <span class='ocr_line' id='line_1_1' title="bbox 327 455 564 694; baseline 0 735"><span class='ocrx_word' id='word_1_1' title='bbox 327 455 564 694; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 313 721 578 746">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 313 721 578 746">
+     <span class='ocr_line' id='line_1_2' title="bbox 313 721 578 746; baseline 0 -5"><span class='ocrx_word' id='word_1_2' title='bbox 313 722 398 743; x_wconf 52' lang='lat' dir='ltr'>”arbath</span> <span class='ocrx_word' id='word_1_3' title='bbox 413 722 486 746; x_wconf 69' lang='lat' dir='ltr'>Qtnllznz</span> <span class='ocrx_word' id='word_1_4' title='bbox 499 721 578 746; x_wconf 62' lang='grc' dir='ltr'>ἰὶὴτετῃ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 342 800 647 1014">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 342 800 647 1014">
+     <span class='ocr_line' id='line_1_3' title="bbox 342 800 628 872; baseline 0.003 -1"><span class='ocrx_word' id='word_1_5' title='bbox 342 800 597 872; x_wconf 48' lang='lat' dir='ltr'>mmm</span> <span class='ocrx_word' id='word_1_6' title='bbox 625 853 628 857; x_wconf 46' lang='grc'><strong><em>«</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 356 945 647 1014; baseline 0.007 -38"><span class='ocrx_word' id='word_1_7' title='bbox 356 952 371 976; x_wconf 66' lang='lat'>6&gt;</span> <span class='ocrx_word' id='word_1_8' title='bbox 397 945 495 1014; x_wconf 38' lang='lat' dir='ltr'>My</span> <span class='ocrx_word' id='word_1_9' title='bbox 513 949 597 980; x_wconf 41' lang='lat'>&amp;³955</span> <span class='ocrx_word' id='word_1_10' title='bbox 643 955 647 959; x_wconf 84' lang='lat'>&#39;</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
